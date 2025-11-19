@@ -1,4 +1,4 @@
-json{
+
   "name": "openai-nim-proxy",
   "version": "1.0.0",
   "description": "OpenAI compatible proxy for NVIDIA NIM API",
@@ -14,4 +14,4 @@ json{
   "engines": {
     "node": "18.x"
   }
-}
+
